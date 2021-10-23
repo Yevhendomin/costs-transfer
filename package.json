@@ -1,0 +1,31 @@
+{
+  "name": "cost-transfer",
+  "version": "1.0.0",
+  "description": "The app takes bank statement data, parses it and transfers  to a google sheets report.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yevhendomin/costs-transfer.git"
+  },
+  "keywords": [
+    "costs",
+    "statement",
+    "bank",
+    "report",
+    "financial",
+    "analize"
+  ],
+  "author": "Yevhen Domin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yevhendomin/costs-transfer/issues"
+  },
+  "homepage": "https://github.com/Yevhendomin/costs-transfer#readme"
+}
