@@ -4,6 +4,7 @@
   "description": "The app takes bank statement data, parses it and transfers  to a google sheets report.",
   "main": "app.js",
   "dependencies": {
+    "axios": "^0.23.0",
     "express": "^4.17.1"
   },
   "devDependencies": {},
